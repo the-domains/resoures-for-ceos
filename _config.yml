@@ -6,9 +6,9 @@ color:
   saturation: 0.4245483963750303
   rhythmicContrast: 0.6082657892256975
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#18496A'
+    - '#D7D7D7'
+    - '#3A769B'
+    - '#B0ABA8'
 name: Resoures for CEOs
